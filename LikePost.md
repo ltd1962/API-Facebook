@@ -3,7 +3,7 @@
 
 ### 1. Link - Liên kết
 ```
-# GET: https://ltdsoftware.io.vn/apifacebook/likepost.php?idpost="id_post"&access_token="access_token_EAAAAU"
+# GET: https://ltdsoftware.online/apifacebook/likepost.php?idpost="id_post"&access_token="access_token_EAAAAU"
 ```
 
 ### 2. Result - Kết quả trả về
